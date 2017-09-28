@@ -1,4 +1,4 @@
-# Comparing different Clustering Algorithms - Visual Analytics Homework 3
+# Comparing different Clustering Algorithms - Homework 3
 
 #### Description:
 
