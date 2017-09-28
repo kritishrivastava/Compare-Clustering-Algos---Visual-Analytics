@@ -1,14 +1,14 @@
 # Comparing different Clustering Algorithms - Visual Analytics Homework 3
 
-Description:
+#### Description:
 
 Running several clustering algorithms on the data set. Exploring and comparing the results using interactive visualizations. Analyzing the techniques in detail.
 
-Clustering Techniques used:
+#### Clustering Techniques used:
 
-KMeans clustering
-Agglomerative clustering
-Spectral clustering
+1. KMeans clustering
+2. Agglomerative clustering
+3. Spectral clustering
 
 Datasource: http://archive.ics.uci.edu/ml/datasets/Wholesale+customers
 
